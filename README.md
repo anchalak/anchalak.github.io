@@ -1,4 +1,4 @@
-## Recommender System
+## Recommender System Project
 A recommender system is a filtering system that is used to predict "rating" or "preference" a user would give to an item. 
 Recommender systems are utilized in a variety of areas and are most commonly recognized as playlist generators for video and music services like Netflix, YouTube and Spotify.
 Amazon uses recommender systems as well to make accurate product recommendations to their users. There are multiple filtering methods that can be used to build a recommmender system; two of the most common ones are collaborative filterting and content-based filtering.
